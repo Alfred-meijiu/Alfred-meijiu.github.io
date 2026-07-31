@@ -23,7 +23,7 @@ repository               : "Alfred-meijiu/Alfred-meijiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile photo"
+  avatar           : "/images/profile photo"
   name             : "Kunhong He"
   pronouns         : # example: "she/her"  
   bio              : "I am passionate about studying Corporate Finance 、 Green Fiannce and  ESG, and pursuing a Master's Degree in Department of Insurance, School of Economy, Fudan University."
