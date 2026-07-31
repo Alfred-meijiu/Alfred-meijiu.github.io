@@ -23,14 +23,14 @@ repository               : "Alfred-meijiu/Alfred-meijiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile photo"
+  name             : "Alfred"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am passionate about studying Corporate Finance 、 Green Fiannce and  ESG, and pursuing a Master's Degree in Department of Insurance, School of Economy, Fudan University."
+  location         : "Shanghai,  P.R.China"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kunhonghe@126.com" 
 
   # Academic websites
   academia         : # URL
