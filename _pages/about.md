@@ -35,7 +35,8 @@ My characteristics
 Here are Relevant Links
 ------
 1.[劈波斩浪再前进  踔厉风行谱新篇](https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
-1.[辽大师生在首届全国大学生红色金融创新创业大赛斩获佳绩！]([https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
+
+1.[辽大师生在首届全国大学生红色金融创新创业大赛斩获佳绩！](https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
 
 
 
