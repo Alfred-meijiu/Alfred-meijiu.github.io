@@ -11,17 +11,59 @@ redirect_from:
 
 {% include base_path %}
 
-Higher Education
+Professional Certificates
 ======
-* Fudan University, 2026-2028
-  * M.S. in Insurance, School of Economics.
-<br><br>
+* CAA(China Association of Actuaries)
+  * 《Economics and Finance》 Completed
+* To be continued
 
-* Liaoning University, 2022-2026
-  * B.S. in Finance, School of Finance and Trade.    
 
-Secondary Education
+Certificates
 ======
-* Qiuxi High School, 2018-2022
-  * Subject: Physics，Chemistry and Biology
+Natinoal Level
+* National Encouragement scholarship,Dec 2023
+  * From Department of Provincial Education of Liaoning Province
+
+* National Encouragement scholarship,Dec 2024
+  * From Department of Provincial Education of Liaoning Province
+
+* National Encouragement scholarship,Dec 2025
+  * From Department of Provincial Education of Liaoning Province
+
+
+University level
+* First Prize for Excellent Graduation Thesis, Jun 2026
+  * From Liaoning University
+
+* Excellent Member of the Communist Youth League of China, May 2026
+  * From Communist Youth League Committee of Liaoning University
+
+* The Second Prize Scholarship, Apr 2023
+  * From Department of Provincial Education of Liaoning Province
+ 
+* The First Prize Scholarship, Oct 2023
+  * From Department of Provincial Education of Liaoning Province
+
+* The Second Prize Scholarship, Apr 2024
+  * From Department of Provincial Education of Liaoning Province
+
+* The First Prize Scholarship, Oct 2024
+  * From Department of Provincial Education of Liaoning Province
+
+* The First Prize Scholarship, Apr 2025
+  * From Department of Provincial Education of Liaoning Province
+
+* The Second Prize Scholarship, Oct 2025
+  * From Department of Provincial Education of Liaoning Province
+
+* The Second Prize Scholarship, Apr 2026
+  * From Department of Provincial Education of Liaoning Province
+
+* National Encouragement scholarship, May 2026
+  * From Department of Provincial Education of Liaoning Province
+
+
+
+
+
 
