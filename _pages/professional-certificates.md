@@ -13,7 +13,7 @@ redirect_from:
 
 Professional Certificates
 ======
-* CAA(China Association of Actuaries)
+* CAA (China Association of Actuaries)
   * 《Economics and Finance》 Completed
 * To be continued
 
