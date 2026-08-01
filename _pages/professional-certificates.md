@@ -34,7 +34,10 @@ Natinoal Level
 University level
 * First Prize for Excellent Graduation Thesis, Jun 2026
   * From Liaoning University
-
+    
+* Minnan Merchants Public Welfare Fund Scholarship and Grant, Jan 2026
+  * From Liaoning University
+  
 * Excellent League Member, May 2023
   * From Communist Youth League Committee of Liaoning University
 
