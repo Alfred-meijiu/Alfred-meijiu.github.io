@@ -10,20 +10,38 @@ redirect_from:
 {% include base_path %}
 
 
-National Award
+National Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* National College Students' Mathematics Competition
+  * First Prize
+  * Dec 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The 1st National College Students' Red Finance Innovation and Entrepreneurship Competition
+  * Second Prize
+  * Apr 2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Asia-Pacific College Students' Mathematical Modeling Competition
+  * Third Prize
+  * Jan 2025
+
+Provincial Awards
+======
+* National College Students' Statistical Modeling Competition
+  * First Prize
+  * Jul 2024
+
+* National College Students' Advertising Art Competition
+  * First Prize
+  * Aug 2024
+
+* The 4th Liaoning Province Intelligent Manufacturing Science Popularization, Creativity and Innovation Competition in 2023
+  * Second Prize
+  * Dec 2023
+
+* Liaoning Provincial College Students' Smart Agriculture Innovation and Entrepreneurship Competition
+  * Third Prize
+  * May 2024
+
+ * The 11th National University Finance Challenge (Eastmoney Cup)
+  * Third Prize
+  * Aug 202 
