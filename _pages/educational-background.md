@@ -11,7 +11,7 @@ redirect_from:
 
 
 Higher Education
-======
+
 
 *Fudan University，2026-2028
  M.S. in Insurance,School of economy
