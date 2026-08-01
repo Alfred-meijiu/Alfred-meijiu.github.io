@@ -18,7 +18,7 @@ Professional Certificates
 * To be continued
 
 
-Certificates
+Other Certificates
 ======
 Natinoal Level
 * National Encouragement scholarship,Dec 2023
