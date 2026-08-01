@@ -13,13 +13,18 @@ redirect_from:
 Higher Education
 ======
 
-* M.S. in Insurance, Fudan University, 2026
-* B.S. in Finance, Liaoning University, 2022
+*Fudan University，2026-2028
+* M.S. in Insurance,School of economy
+
+*Liaoning University, 2022-2026
+*B.S. in Finance, School of Finance and Trade
+
 
 Secondary Education
 ======
 
-* Qiuxi High School,2018
+* Qiuxi High School,2018-2022
+Physics，Chemistry and Biology
 
 
 
