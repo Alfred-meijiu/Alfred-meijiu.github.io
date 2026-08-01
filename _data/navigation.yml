@@ -9,13 +9,13 @@
 
 main:
   - title: "Educational Background"
-    url: /Educational-Background/
+    url: /educational-background/
 
-  - title: "Competition Awards"
-    url: /Competition-Awards/    
+  - title: "competition awards"
+    url: /competition-awards/    
 
-  - title: "Professional Certificates"
-    url: /Professional-Certificates/    
+  - title: "professional certificates"
+    url: /professional-certificates/    
     
-  - title: "Professional Experience"
-    url: /Professional-Experience/
+  - title: "professional experience"
+    url: /professional-experience/
