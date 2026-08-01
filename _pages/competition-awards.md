@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Competition-Awards"
+title: "Competition Awards"
 permalink: /competition-awards/
 author_profile: true
 redirect_from:
