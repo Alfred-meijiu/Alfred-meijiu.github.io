@@ -45,4 +45,4 @@ Provincial Awards
 
 * The 11th National University Finance Challenge (Eastmoney Cup)
   * Third Prize
-  * Aug 202 
+  * Aug 2025
