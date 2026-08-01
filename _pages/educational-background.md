@@ -8,15 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
-======
-======
+
 
 
 
 
 Education
 ======
+======
+
+
 * M.S. in Insurance, Fudan University, 2026
 * B.S. in Finance, Liaoning University, 2022
 
