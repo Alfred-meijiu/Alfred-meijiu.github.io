@@ -32,11 +32,11 @@ My characteristics
 1. result-oriented——While I appreciate the process, results remain my higher priority.
 1. rational——I exhibit traits of a rational agent.
 
-Here are Relevant Links
+Here are relevant links
 ======
 1.[劈波斩浪再前进  踔厉风行谱新篇](https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
 
-1.[辽大师生在首届全国大学生红色金融创新创业大赛斩获佳绩！](https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
+1.[辽大师生在首届全国大学生红色金融创新创业大赛斩获佳绩！](https://mp.weixin.qq.com/s/oxTQz3G6M6Sl3ciUbHOdvg)
 
 
 
