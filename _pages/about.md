@@ -27,7 +27,7 @@ My characteristics
 ======
 1. Multitasker——Skilled in time management, I am capable of handling diverse tasks efficiently.
 1. Ambitious——I aspire to be a leading financier, committed to employing finance for the wellbeing of society and the public。
-1. Empathys——I possess empathy for people around me and am attuned to their emotional states.
+1. Empathy——I possess empathy for people around me and am attuned to their emotional states.
 1. leadership——I frequently assume leadership responsibilities in tasks I engage in.
 1. result-oriented——While I appreciate the process, results remain my higher priority.
 1. rational——I exhibit traits of a rational agent.
