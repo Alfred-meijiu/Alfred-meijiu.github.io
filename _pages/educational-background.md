@@ -19,7 +19,7 @@ Higher Education
 Secondary Education
 ======
 
-* Qiuxi Regular High Schools,2018
+* Qiuxi High School,2018
 
 
 
