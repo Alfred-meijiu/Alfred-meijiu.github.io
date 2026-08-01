@@ -23,8 +23,8 @@ National Awards
 * Asia-Pacific College Students' Mathematical Modeling Competition
   * Third Prize
   * Jan 2025
-
 <br><br>
+
 Provincial Awards
 ======
 * National College Students' Statistical Modeling Competition
