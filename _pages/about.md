@@ -9,19 +9,19 @@ redirect_from:
 
 My name is Kunhong He. Alfred (my English name) is also acceptable.
 
-This is my profilo,which includes my educational background，competition awards，professional certificates and professional experience.The profile is designed to give visitors a thorough understanding of my background.
+This is my profilo,which includes my educational background，competition awards，professional certificates and professional experience. The profile is designed to give visitors a thorough understanding of my background.
 
 Good morning, and in case I don't see you, good afternoon, good evening, and good night!
 
 Outlines
 ======
-educational background:Please click the first button.
+educational background:   Please click the first button.
 
-competition awards:Please click the second button.
+competition awards:       Please click the second button.
 
 professional certificates:Please click the third button.
 
-professional experience:Please click the fourth button.
+professional experience:  Please click the fourth button.
 
 Getting started
 ======
