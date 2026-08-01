@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<br><br>
+
 {% include base_path %}
 
 Higher Education
