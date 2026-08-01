@@ -23,15 +23,23 @@ professional certificates:Please click the third button.
 
 professional experience:  Please click the fourth button.
 
-Getting started
+My characteristics
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Multitasker——Skilled in time management, I am capable of handling diverse tasks efficiently.
+1. Ambitious——I aspire to be a leading financier, committed to employing finance for the wellbeing of society and the public。
+1. Empathys——I possess empathy for people around me and am attuned to their emotional states.
+1. leadership——I frequently assume leadership responsibilities in tasks I engage in.
+1. result-oriented——While I appreciate the process, results remain my higher priority.
+1. rational——I exhibit traits of a rational agent.
 
-Site-wide configuration
+Here are Relevant Links
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1.[劈波斩浪再前进  踔厉风行谱新篇](https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ)
+1.[辽大师生在首届全国大学生红色金融创新创业大赛斩获佳绩！]([https://mp.weixin.qq.com/s/DqSuoStoNjrEBCNjBZcxWQ](https://mp.weixin.qq.com/s/oxTQz3G6M6Sl3ciUbHOdvg))
+
+
+
+
+
+
+
