@@ -19,7 +19,6 @@ Higher Education
 
 * Liaoning University, 2022-2026
   * B.S. in Finance, School of Finance and Trade.    
-<br><br>
 
 Secondary Education
 ======
