@@ -24,6 +24,7 @@ National Awards
   * Third Prize
   * Jan 2025
 
+<br><br>
 Provincial Awards
 ======
 * National College Students' Statistical Modeling Competition
@@ -42,6 +43,6 @@ Provincial Awards
   * Third Prize
   * May 2024
 
- * The 11th National University Finance Challenge (Eastmoney Cup)
+* The 11th National University Finance Challenge (Eastmoney Cup)
   * Third Prize
   * Aug 202 
