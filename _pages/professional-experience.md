@@ -25,18 +25,27 @@ Internships
  
 Publications including unpublished manuscripts
 ======
+Academic Paper
 * Can Low-Carbon City Pilot Policies Improve Corporate ESG Performance?
 —A Quasi-Natural Experiment Based on Three Phases of Low-Carbon City Development
 
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* 
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
-* Intern at Eastmoney Securities
+* The Impact of Industry-Finance Cooperation on Corporate Investment Efficiency
+* Digital Inclusive Finance and Default Risk of Manufacturing Enterprises
+* Research on the Driving Path of Industrial Concentration to Corporate Performance
+* Analysis Report Based on Word Frequency and Visualization Techniques
+* A Study on the Conversion Behavior of Convertible Bonds — Based on Option and Zero-Sum Game Analysis
+* A Study on Existing Problems and Countermeasures of Unemployment Insurance Fund System in Liaoning Province
+* Do Big 4 Auditors Increase Firms’ Audit Fees in the IPO Year?
+* A Study on the Applicability of Equity Incentives to Mitigate Agency Problems
+* MUJI’s Marketing Philosophy and Brand Practices
+* Securities Investment Analysis Report on Sichuan Gold Co., Ltd.
+
+Mathematical Modeling
+* Constructing a Prediction and Classification Model of Regional Adaptability Based on Spearman and Multiple Regression Analysis
+* The Factors behind Grand Slam Title
+* Optimal Decision-Making Scheme for Enterprise Electronic Product Production — Based on Stochastic Dynamic Programming
+* Research on Underwater Image Degradation Classification Modeling and Comprehensive Enhancement Algorithm Based on Threshold Statistics
+
+Business Plan
+* Peach Blossom Spring: A New Platform for Rural Tourism
+* Xingnong Media: Building an MCN Institution for "New Farmers" in Xiaowanghai
