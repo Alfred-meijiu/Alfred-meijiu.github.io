@@ -59,8 +59,6 @@ University level
 * The Second Prize Scholarship, Apr 2026
   * From Department of Provincial Education of Liaoning Province
 
-* National Encouragement scholarship, May 2026
-  * From Department of Provincial Education of Liaoning Province
 
 
 
