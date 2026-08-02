@@ -24,5 +24,5 @@ Higher Education
 Secondary Education
 ======
 * Qiuxi High School, 2018-2022
-  * Subject: Chinese, Mathmatics, English, Physics，Chemistry and Biology
+  * Subject: Chinese, Mathmatics, English, Physics, Chemistry and Biology
 
